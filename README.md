@@ -1,5 +1,5 @@
 # Hello, I'm Zahurul
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zahurul-huq-67760423b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Detail-oriented IT professional skilled in providing exceptional customer support, resolving technical issues, and maintaining IT systems. Currently
