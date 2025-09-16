@@ -10,7 +10,7 @@ preparing for the CompTIA Security+ certification to further strengthen cybersec
 With a background in Electrical Engineering and a long-standing passion for PC building, I have developed a strong interest in cybersecurity. I am now eager to transition into the field by pursuing a role as a Tier 1 SOC Analyst, where I can apply my technical foundation, problem-solving skills, and dedication to continuous learning.
 
 ## Projects
- <a href="[https://github.com/zhuq00/Blue-Team-SOC-Detection-Engineering-Project]">Blue Team SOC Detection Engineering Project</a> <br>
+ <a href="https://github.com/zhuq00/Blue-Team-SOC-Detection-Engineering-Project">Blue Team SOC Detection Engineering Project</a> <br>
   <a href="https://google.com">Peppermint Ticketing Project</a>
 
 ## Skills
